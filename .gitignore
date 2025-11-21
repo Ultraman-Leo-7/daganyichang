@@ -1,2 +1,6 @@
 *.txt
 666.py
+# Compiled binaries
+hello
+*.exe
+*.out
